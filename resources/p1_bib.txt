@@ -1,0 +1,11 @@
+@InProceedings{su2019,
+  author    = {Su, Xuan and Prasad, Animesh and  Kan, Min-Yen and Sugiyama, Kazunari},
+  title     = {Neural Multi-Task Learning for Citation Function and Provenance},
+  booktitle = {Proceedings of the 19th ACM/IEEE Joint Conference on Digital Libraries (JCDL 2019)},
+  month     = {June},
+  year      = {2019},
+  address   = {Urbana-Champaign, USA},
+  publisher = {{IEEE} Computer Society},
+  pages     = {394--395},
+  doi       = {10.1109/JCDL.2019.00122}
+}

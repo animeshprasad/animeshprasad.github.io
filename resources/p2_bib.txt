@@ -1,0 +1,11 @@
+@InProceedings{animeshchairvise2019,
+  author    = {Prasad, Animesh and Ahuja, Saumya and Jiang, Shenhao and  Wadhwa, Bimlesh and  Kan, Min-Yen},
+  title     = {{ChairVisE:} An analytic lens for conference submission data},
+  booktitle = {Proceedings of the 19th ACM/IEEE Joint Conference on Digital Libraries (JCDL 2019)},
+  month     = {June},
+  year      = {2019},
+  address   = {Urbana-Champaign, USA},
+  publisher = {{IEEE} Computer Society},
+  pages     = {428--429},
+  doi       = {10.1109/JCDL.2019.00103}
+}

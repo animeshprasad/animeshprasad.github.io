@@ -1,0 +1,12 @@
+@inproceedings{prasad2016microphone,
+author={Prasad, Animesh and Sim, Khe Chai},
+title={Microphone Distance Adaptation Using Cluster Adaptive Training for Robust Far Field Speech Recognition},
+year=2016,
+date={September 8–12, 2016},
+booktitle={Interspeech 2016, 17th Annual Conference of the International Speech Communication Association},
+doi={10.21437/Interspeech.2016-738},
+url={http://dx.doi.org/10.21437/Interspeech.2016-738},
+pages={3823--3827},
+publisher={International Speech Communication Association},
+location={San Francisco, USA}
+}

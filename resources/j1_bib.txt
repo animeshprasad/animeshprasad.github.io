@@ -1,0 +1,10 @@
+@article{shukla2017efficient,
+  title={Efficient disjoint boundary detection algorithm for surveillance capable WSNs},
+  author={Shukla, Shailendra and Misra, Rajiv and Prasad, Animesh},
+  journal={Journal of Parallel and Distributed Computing},
+  volume={109},
+  pages={245--257},
+  year={2017},
+  publisher={Elsevier},
+  url={http://dx.doi.org/10.1016/j.jpdc.2017.06.002}
+}

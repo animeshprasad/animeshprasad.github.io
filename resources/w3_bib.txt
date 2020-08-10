@@ -1,0 +1,14 @@
+@inproceedings{prasad-etal-2019-dataset,
+    title = "Dataset Mention Extraction and Classification",
+    author = "Prasad, Animesh  and
+      Si, Chenglei  and
+      Kan, Min-Yen",
+    booktitle = "Proceedings of the Workshop on Extracting Structured Knowledge from Scientific Publications",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W19-2604",
+    pages = "31--36",
+    abstract = "Datasets are integral artifacts of empirical scientific research. However, due to natural language variation, their recognition can be difficult and even when identified, can often be inconsistently referred across and within publications. We report our approach to the Coleridge Initiative{'}s Rich Context Competition, which tasks participants with identifying dataset surface forms (dataset mention extraction) and associating the extracted mention to its referred dataset (dataset classification). In this work, we propose various neural baselines and evaluate these model on one-plus and zero-shot classification scenarios. We further explore various joint learning approaches - exploring the synergy between the tasks - and report the issues with such techniques.",
+}

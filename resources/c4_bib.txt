@@ -1,0 +1,12 @@
+@InProceedings{animeshversatile2019,
+  author    = {Prasad, Animesh and D\'ejean, Herv\'e and Meunier, Jean-Luc},
+  title     = {Versatile Layout Understanding via Conjugate Graph},
+  booktitle = {15th {IAPR} International Conference on Document Analysis and Recognition,
+               {ICDAR} 2019},
+  month     = {September},
+  year      = {2019},
+  address   = {Sydney, Australia},
+  publisher = {{IEEE} Computer Society},
+  pages     = {},
+  doi       = {}
+}

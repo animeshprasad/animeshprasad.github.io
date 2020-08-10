@@ -1,0 +1,14 @@
+@inproceedings{prasad-kan-2017-wing,
+    title = "{WING}-{NUS} at {S}em{E}val-2017 Task 10: Keyphrase Identification and Classification as Joint Sequence Labeling",
+    author = "Prasad, Animesh  and
+      Kan, Min-Yen",
+    booktitle = "Proceedings of the 11th International Workshop on Semantic Evaluation ({S}em{E}val-2017)",
+    month = aug,
+    year = "2017",
+    address = "Vancouver, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/S17-2170",
+    doi = "10.18653/v1/S17-2170",
+    pages = "973--977",
+    abstract = "We describe an end-to-end pipeline processing approach for SemEval 2017{'}s Task 10 to extract keyphrases and their relations from scientific publications. We jointly identify and classify keyphrases by modeling the subtasks as sequential labeling. Our system utilizes standard, surface-level features along with the adjacent word features, and performs conditional decoding on whole text to extract keyphrases. We focus only on the identification and typing of keyphrases (Subtasks A and B, together referred as extraction), but provide an end-to-end system inclusive of keyphrase relation identification (Subtask C) for completeness. Our top performing configuration achieves an $F_1$ of 0.27 for the end-to-end keyphrase extraction and relation identification scenario on the final test data, and compares on par to other top ranked systems for keyphrase extraction. Our system outperforms other techniques that do not employ global decoding and hence do not account for dependencies between keyphrases. We believe this is crucial for keyphrase classification in the given context of scientific document mining.",
+}
