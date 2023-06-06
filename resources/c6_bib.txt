@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9746291,
+  author={Lajszczak, Mateusz and Prasad, Animesh and Van Korlaar, Arent and Bollepalli, Bajibabu and Bonafonte, Antonio and Joly, Arnaud and Nicolis, Marco and Moinet, Alexis and Drugman, Thomas and Wood, Trevor and Sokolova, Elena},
+  booktitle={ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Distribution Augmentation for Low-Resource Expressive Text-To-Speech}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={8307-8311},
+  doi={10.1109/ICASSP43922.2022.9746291}}
